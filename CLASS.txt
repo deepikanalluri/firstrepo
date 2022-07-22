@@ -1,0 +1,12 @@
+Class :
+ * Class is a blueprint of an object
+ * Everthing in java associated with class and object
+ * For example : In real life, a car is a object.The car has attributes,such as weight and color,and drive and brake
+ * Example :
+	class A
+	{
+		public static void main(String[] args)
+		{
+			System.out.println("class A");
+		}
+	}
