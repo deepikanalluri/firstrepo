@@ -7,11 +7,11 @@ Object :
 		{
 			void name()
 			{
-				System.out.println("Tulasi");
+				System.out.println("Deepu");
 			}
 			void Reg.No()
 			{
-				System.out.println("20K61A1253");
+				System.out.println("20K61A1244");
 			}
 			public static void main(String[] args)
 			{
@@ -21,5 +21,5 @@ Object :
 			}
 		}
 	Output:
-		Tulasi
-		20K61A1253
+		Deepu
+		20K61A1244
