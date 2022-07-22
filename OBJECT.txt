@@ -1,0 +1,25 @@
+Object : 
+ * Objects are basic run time entities in object oriented program
+ * The objects are represented like a person, a place, a bank account,a table of data or any item than can handle by program
+ * Object is a real world entity
+	Example :
+		class StduentDemo
+		{
+			void name()
+			{
+				System.out.println("Tulasi");
+			}
+			void Reg.No()
+			{
+				System.out.println("20K61A1253");
+			}
+			public static void main(String[] args)
+			{
+				StudentDemo sd =new StudentDemo();
+				sd.name();
+				sd.Reg.No();
+			}
+		}
+	Output:
+		Tulasi
+		20K61A1253
