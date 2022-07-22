@@ -1,0 +1,16 @@
+Introduction to Object oriented programming :
+ * Procedural language there some flaws so we came to object oriented program
+ * It is more secure to the data
+ * It allows more number of entities is called object
+	Example : class		object
+		  Animal	Dog,cows,.....
+ * If we write the data in one function if can not allow to another function directly,
+ if we create a object of function then the data will be transfer
+ * New data and functions can be easily added when it is necessary
+ * It is bottom up approach program
+ * Principles :
+	*Object
+	*Classes
+	*Data abstraction and encapsulation
+	*Inheritance
+	*Polymorphism
